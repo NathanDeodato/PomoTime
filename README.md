@@ -19,7 +19,7 @@
 ---
 
 <h2  align="center">Application demo</h2>
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6797bca2-17e8-45ae-8b22-2b699951d802/deploy-status)](https://app.netlify.com/sites/pomotime-demo/deploys)
 
 
 ---
