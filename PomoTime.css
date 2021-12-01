@@ -1,0 +1,218 @@
+/* config-font */
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300&family=Roboto:ital@1&display=swap');
+
+/* config-reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* config-body */
+body {
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Roboto', sans-serif;
+
+    background: rgb(44,93,241);
+    background: linear-gradient(90deg, rgba(44,93,241,0.9752275910364145) 19%, rgb(17, 99, 250) 63%);
+}
+header {
+    width: 100%;
+    height: 10vh;
+}
+main {
+    width: 100%;
+}
+footer {
+    width: 10%;
+    height: 40%;
+}
+
+/* config-header */
+.Title-Header {
+    color: white;
+
+    text-align: center;
+    padding: 3vh;
+    font-size: 2.5rem;
+}
+
+/* config-main */
+.Container-Options {
+    width: 100vw;
+    height: 30vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Box-Options {
+    width: 36vw;
+    height: 11vh;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: #1c1c1c;
+    border-radius: 20px;
+}
+.Box-ButtonOne, .Box-ButtonTwo, .Box-ButtonThree {
+    width: 12vw;
+    height: 11vh;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Button-OptionOne {
+    width: 12vw;
+    height: 11vh;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    border-radius: 20px 0px 0px 20px;
+    color: white;
+    font-weight: bold;
+}
+.Box-ButtonOne:hover {
+    cursor: pointer;
+}
+
+.Button-OptionTwo {
+    width: 12vw;
+    height: 11vh;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    color: white;
+    background: rgb(69, 115, 253);
+    background: linear-gradient(90deg, rgba(69, 116, 255, 0.975) 19%, rgb(17, 99, 250) 63%);
+    font-weight: bold;
+}
+.Box-ButtonTwo:hover {
+    cursor: pointer;
+}
+
+.Button-OptionThree {
+    width: 12vw;
+    height: 11vh;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+
+    border-radius: 20px 0px 0px 20px;
+    color: white;
+    font-weight: bold;
+}
+.Box-ButtonThree:hover {
+    cursor: pointer;
+}
+
+.Container-Time {
+    display: flex;
+    justify-content: center;
+    
+    /* position: absolute;
+    top: 40vh;
+    left: 38vw;*/
+}
+.Box-Time {
+    width: 25vw;
+    height: 50vh;
+}
+.Circle-Time {
+    width: 25vw;
+}
+
+.Box-TimeIcons {
+    position: absolute;
+    top: 80vh;
+    left: 40vw;
+}
+.Time-IconPlay{
+    position: absolute;
+    left: 7vw;
+}
+.Time-IconPlay:hover {
+    cursor: pointer;
+}
+.Time-IconPause{
+    position: absolute;
+    left: 9.5vw;
+}
+.Time-IconPause:hover {
+    cursor: pointer;
+}
+.Time-IconReset{
+    position: absolute;
+    left: 12vw;
+}
+.Time-IconReset:hover {
+    cursor: pointer;
+}
+.Time-IconPlay, .Time-IconPause, .Time-IconReset {
+    width: 1vw;
+}
+
+.Container-Config {
+    position: absolute;
+    top: 21vh;
+    left: 95.5vw;
+}
+.ConfigIcon {
+    width: 3vw;
+}
+.ConfigIcon:hover {
+    cursor: pointer;
+}
+
+/* config-footer */
+.Container-Footer {
+    width: 6vw;
+    height: 65vh;
+    
+    position: absolute;
+    top: 35vh;
+    left: 94vw;
+    background-color: #1c1c1c;
+    border-radius: 10px 0px 0px 0px;
+}
+
+.Box-Title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.Box-NT {
+    height: 35vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Title-NT {
+    width: 1.5vh;
+}
+
+.Box-Icons {
+    height: 30vh;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;   
+}
+.IconFooter {
+    width: 2.5vw;
+    padding-top: 1.5vh;
+    padding-bottom: 1.5vh;
+}
+.IconFooter:hover {
+    cursor: pointer;
+}
