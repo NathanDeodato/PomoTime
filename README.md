@@ -43,6 +43,7 @@
 
 <h3 align="center">Funcionalidades</h3>
 
+- [] Responsividade
 - [] Funcionalidade das opções
 - [] Funcionalidades do timer
 
