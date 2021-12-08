@@ -15,7 +15,7 @@
 
 <h2 align="center">Design</h2>
 
-<a href="https://www.figma.com/file/cPr4Zzk0d2L1FlUYGxRXxE/PomoNet?node-id=0%3A1"><img src="https://img.shields.io/static/v1?label=Design&message=Figma&color=00FA9A&style=for-the-badge&logo=GHOST" alt="ntShield"></a>
+<a href="https://www.figma.com/file/cPr4Zzk0d2L1FlUYGxRXxE/PomoNet?node-id=0%3A1"><img src="https://img.shields.io/static/v1?label=Design&message=Figma&color=00FA9A&style=for-the-badge&logo=FIGMA" alt="ntShield"></a>
 
 ---
 
