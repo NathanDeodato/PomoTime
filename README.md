@@ -21,8 +21,7 @@
 
 <h2  align="center">Application demo</h2>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6797bca2-17e8-45ae-8b22-2b699951d802/deploy-status)](https://app.netlify.com/sites/pomotime-demo/deploys)
-
+<a href="https://pomotime-demo.netlify.app/"><img src="https://img.shields.io/static/v1?label=Netlify&message=Demo&color=0e1e25&style=for-the-badge&logo=NETLIFY" alt="ntShield"></a>
 
 ---
 
